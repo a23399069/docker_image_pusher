@@ -4,8 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0
-docker.elastic.co/elasticsearch/elasticsearch:8.13.4
-grafana/grafana:10.4.2
-prom/prometheus:v2.51.2
-nginx:1.25-alpine
+#mysql:8.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+#grafana/grafana:10.4.2
+#prom/prometheus:v2.51.2
+#nginx:1.25-alpine
+eclipse-temurin:17-jre
